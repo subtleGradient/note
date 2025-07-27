@@ -1,0 +1,35 @@
+# Development files
+.git/
+.github/
+.vscode/
+.idea/
+*.log
+*.tmp
+.DS_Store
+
+# Source files (if you want to publish only built files)
+# src/
+# *.tsx
+# *.ts
+
+# Test files
+*.test.*
+__tests__/
+coverage/
+
+# Build files
+.parcel-cache/
+dist/
+build/
+
+# Config files
+.env
+.env.*
+!.env.example
+bun.lockb
+CLAUDE.md
+
+# Documentation
+docs/
+*.md
+!README.md
