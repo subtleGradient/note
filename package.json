@@ -1,6 +1,6 @@
 {
   "name": "note",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A note-taking application built with Bun, React, and Tailwind",
   "type": "module",
   "main": "src/index.tsx",
